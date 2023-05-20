@@ -1,22 +1,73 @@
-### Hi there 👋, This is Gajendra Kumar
-#### A Developer who is Developing Skill set to become a Xpert Dev
-![A Developer who is Developing Skill set to become an Xpert Dev](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<div align="center">
+  <img height="450" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif"  />
+</div>
 
+###
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<h2 align="center">Hey, This Gajendra Kumar <br>A Developer Developing Skills to become an Xpert Dev</h2>
 
-- 🔭 I’m currently working on My Skill set 
-- 🌱 I’m currently learning Web Development 
-- 👯 I’m looking to collaborate on Projects  
-- 📫 How to reach me: gajendra.og@gmail.com 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="42" alt="google logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo"  />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrgajendra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrgajendrakumar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gajjujiii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mrgajendrakumar)  
+###
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<div align="center">
+  <a href="https://www.linkedin.com/in/mrgajendrakumar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="gajendra.og@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/gajjujiii/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrgajendra&show_icons=true)  
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mrgajendra)  
+<br clear="both">
 
-![Profile views](https://gpvc.arturio.dev/Mrgajendra)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mrgajendra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrgajendra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mrgajendra/mrgajendra/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="center">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img height="450" src="https://media.tenor.com/pVwOAuOdI4MAAAAC/jim-carrey-bruce-almighty.gif"  />
+</div>
+
+###
+
+<img align="left" height="150" src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mrgajendra/count.svg?"  />
+</div>
+
+###
