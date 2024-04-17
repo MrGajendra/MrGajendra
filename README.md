@@ -1,5 +1,5 @@
-# 💫 About Me: 
-Gajendra Kumar
+# 💫 About Me: Gajendra Kumar
+
 Passionate coder 🚀 <br>Currently building innovative web applications 💻<br> Collaborating on open-source projects 🤝 <br> Eager to help with code reviews and problem-solving 🤔 <br><br>Ask me about front-end frameworks and design patterns 🎨<br>Fun fact: I am Human! 🧩
 
 
