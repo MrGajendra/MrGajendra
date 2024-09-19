@@ -1,31 +1,125 @@
-# 💫 Gajendra Kumar
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Aayush&reversal=true&fontColor=0&stroke=b9a2ff&desc=Chouhan&descAlign=64&descSize=40&descAlignY=60&fontAlign=47&fontAlignY=43&animation=twinkling&textBg=false"
+    width="100%" />
 
-Passionate coder 🚀 <br>Currently building innovative web applications 💻<br> Collaborating on open-source projects 🤝 <br> Eager to help with code reviews and problem-solving 🤔 <br><br>Ask me about front-end frameworks and design patterns 🎨<br>Fun fact: I am Human! 🧩
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
+  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
+</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aayushchouhan24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false"
+    height="150" alt="stats graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushchouhan24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    height="150" alt="languages graph" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchouhan24&theme=dracula&hide_border=false"
+    height="150" alt="languages graph" />
+</div>
+
+<br clear="both">
+
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/aayushchouhan24?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/aayushchouhan24?tab=followers"><img align="right" src="https://img.shields.io/github/followers/aayushchouhan24?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/aayushchouhan24">  <img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan24"></a>
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=aayushchouhan24&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+
+</div>
+
+<div align="center"> 
+ 
+<table align="left">
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=express" alt="express logo" ><br><sub><sup>Express</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=react" alt="react logo" ><br><sub><sup>React</td>
+  </tr>
+  
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
+    <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
+  </tr>
+  
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=html" alt="html5 logo" ><br><sub><sup>HTML5</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=css" alt="css3 logo" ><br><sub><sup>CSS3</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=js" alt="javascript logo" ><br><sub><sup>JavaScript</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
+
+  </tr>
+</table>
+
+<table align="right">
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" ><br><sub><sup>Firebase</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=github" alt="github logo" ><br><sub><sup>GitHub</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vite" alt="vite logo" ><br><sub><sup>Vite</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
+    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm logo" ><br><sub><sup>PyCharm</td>
+    <td align="center"><img height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode logo" ><br><sub><sup>Xcode</td>
+  </tr>
+
+  <tr>
+    <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
+  </tr>
+</table>
 
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/gajendra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gajjujiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrgajendrakumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrgajendrakumar) 
+<div align="center">  
+<br>
+<img align="center" width="30%"  src="https://media.tenor.com/BFicsAlUcYkAAAAi/anime-dance.gif" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrgajendra&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrgajendra&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgajendra&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrgajendra&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+  
+<br clear="both">
+  <h1></h1>
+<br clear="both">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![youtube logo](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/@aayushchouhan24)
+[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/aayushchouhan_24?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/542424022764355587)
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](aayushchouhan24@gmail.com)
+[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/aayushchouhan24)
+[![telegram logo](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/aayushchouhan24)
+[![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/Aayushchouhan24)
+[![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrgajendra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=mrgajendra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img alt="github-snake"
+  src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
+  
+</div>
