@@ -25,7 +25,7 @@ Passionate coder 🚀 <br>Currently building innovative web applications 💻<br
 ### 😂 Cool
 <div align="center">  
 <br>
-<img align="center" width="30%"  src="https://media1.tenor.com/m/L6kLCOWCpxoAAAAd/owlkitty-pirates.gif" />
+<img align="center" width="100%"  src="https://media1.tenor.com/m/L6kLCOWCpxoAAAAd/owlkitty-pirates.gif" />
 </div>
 
 
