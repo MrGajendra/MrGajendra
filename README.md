@@ -4,7 +4,7 @@
 
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
-  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
+  Hello, tech enthusiast here! I'm all about Web developemt. Let's dive into the digital realm together! 🚀
 </h2>
 
 <div align="center">
@@ -21,11 +21,11 @@
 
 <br clear="both">
 
-## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/aayushchouhan24?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/aayushchouhan24?tab=followers"><img align="right" src="https://img.shields.io/github/followers/aayushchouhan24?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/aayushchouhan24">  <img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan24"></a>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/mrgajendra?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/mrgajendra?tab=followers"><img align="right" src="https://img.shields.io/github/followers/mrgajenda?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/mrgajendra">  <img align="right" src="https://komarev.com/ghpvc/?username=mrgajendra"></a>
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=aayushchouhan24&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=mrgajendra&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
 
 </div>
 
@@ -120,6 +120,6 @@
 [![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
 
 <img alt="github-snake"
-  src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
+  src="https://cdn.jsdelivr.net/gh/mrgajendra/mrgajendra@output/github-contribution-grid-snake-dark.svg" />
   
 </div>
