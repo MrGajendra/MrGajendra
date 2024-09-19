@@ -22,8 +22,13 @@ Passionate coder 🚀 <br>Currently building innovative web applications 💻<br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrgajendra&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Cool
+<div align="center">  
+<br>
+<img align="center" width="30%"  src="https://media1.tenor.com/m/L6kLCOWCpxoAAAAd/owlkitty-pirates.gif" />
+</div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrgajendra&icon=0&color=0)](https://visitcount.itsvg.in)
